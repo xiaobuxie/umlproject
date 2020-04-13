@@ -1,0 +1,19 @@
+  
+# Directories
+build-uml-Desktop_Qt_5_12_0_MinGW_64_bit-Debug/
+debug/
+release/
+
+# File types
+*.dll
+*.exe
+*.sys
+*.pdb
+*.aps
+*.sdf
+*.user
+*.obj
+*.opensdf
+*.suo
+*.VC.db
+*.VC.opendb

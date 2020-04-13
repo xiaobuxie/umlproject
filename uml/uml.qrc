@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/uml">
+        <file>image/A.jpg</file>
+        <file>image/B.jpg</file>
+    </qresource>
+</RCC>
